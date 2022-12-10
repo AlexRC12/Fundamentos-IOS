@@ -1,2 +1,2 @@
-# Fundamentos-IOS
-Repositorio para cargar la práctica de Fundamentos de IOS
+# Swift
+Repositorio para cargar la práctica de Swift
